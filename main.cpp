@@ -7,8 +7,7 @@ using namespace std;
 
 int main()
 {
-float x, a, b, c, g;
-
+float x, a, b, c;
 
 
 	cout<<"podaj liczbe"<<endl;
